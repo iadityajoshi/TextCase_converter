@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-TextCase_converter/static/css/main.2784506f.css",
+    "main.js": "/React-TextCase_converter/static/js/main.e21921f8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-TextCase_converter/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/React-TextCase_converter/index.html",
+    "main.2784506f.css.map": "/React-TextCase_converter/static/css/main.2784506f.css.map",
+    "main.e21921f8.js.map": "/React-TextCase_converter/static/js/main.e21921f8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-TextCase_converter/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.e21921f8.js"
+  ]
+}
